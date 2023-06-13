@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cabbage rolls ( Sarmale)",
+      "details": "1 large soured cabbage, 1 3/4 lb/750 g ground meat (mixture of pork and beef is recommended), 2 large onions, 2 tablespoons rice, 2 tomatoes or 500 mL tomato sauce, salt, pepper, sweet paprika and sour cream (optional)."
+    },
+    {
+      "id": 2,
+      "title": "Romanian Walnut Panetone (Cozonaci cu nuca)",
+      "details": "Romanian Panetone dough: 2 lbs/1 kg flour, 10 oz/300 g sugar, 1 1/2 cups milk, 6 eggs, 2 oz/50 g yeast, 7 oz/200 g butter, 2 tablespoons oil, vanilla stick, salt, egg for washing the dough, grease for the pans."
+    },
+    {
+      "id": 3,
+      "title": "Romanian Borscht",
+      "details": "500 grams wheat bran, 100 grams wheat bread, 3 tbsp cornmeal, 2 green lovage stems, 6 cherry leaves, 5 liters hot water."
+    },
+    {
+      "id": 4,
+      "title": "Boeuf Salad (Salata de Boeuf)",
+      "details": "2 potatoes, 4 carrots, 1 parsley root, 1 parsnip (optional, one can of green peas, 2 pickles, 1/2 lb (250 g) poultry breast or beef sirloin, 300g home made mayonnaise, 1 tablespoon mustard, salt and pepper."
+    },
+    {
+      "id": 5,
+      "title": "Romanian Style Polenta (Mamaliga)",
+      "details": "1 qt. Water, 1-2 cups corn meal, 2 tsp. salt."
+    }
+  ]
+}
