@@ -7,7 +7,6 @@
                     <span class="material-symbols-outlined">edit</span>
                 </router-link>
                 <span @click="deleteProject" class="material-symbols-outlined">delete</span>
-               
             </div>
         </div>
         <div class="details">

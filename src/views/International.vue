@@ -1,5 +1,5 @@
 <template>
-   <div>
+  <div>
     <input type="text" v-model="ingredient" placeholder="Add an ingredient">
     <button class="button" @click="addIngredient">Add</button>
     <ul>
@@ -41,11 +41,12 @@ data() {
         this.recipes = response.data.hits
         }).catch(error => {
         console.error(error)
-        })
+      })
     }
-}
+  }
 }
 </script>
+
 <style>
 li {
     list-style-type: none;
@@ -65,6 +66,5 @@ button {
     border: 0;
     border-radius: 6px;
     font-size: 16px;
-
 }
 </style>
